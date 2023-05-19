@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623094553 source:e:\seif\term 3\programig 1\bst assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
